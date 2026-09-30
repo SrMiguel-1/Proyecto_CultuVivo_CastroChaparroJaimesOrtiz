@@ -51,13 +51,6 @@ El proyecto se desarrolla utilizando el marco de trabajo ágil **Scrum**, adapta
 
 ---
 
-## Tecnologías Utilizadas
-* Lenguaje: **Python 3**
-* Paradigma: **Programación Orientada a Objetos (POO)**
-* Interfaz: **Consola (CLI)**
-
-  ---
-
 ## Documentación del Proyecto
 Puedes consultar la documentación detallada y completa del proyecto en el siguiente enlace de Google Docs:
 Ver Documentación Completa en Google Docs (https://docs.google.com/document/d/1vLT76U7hV-WeYndam1eT_B7kz3nQoAUrcZyi1TGqrO4/edit?usp=sharing)
