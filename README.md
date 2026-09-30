@@ -34,7 +34,7 @@ La Fundación CultuVivo requiere una solución tecnológica para gestionar efica
 * **RNF01 - Usabilidad:** Interfaz de consola (CLI) clara e intuitiva, estructurada con menús interactivos por rol.
 * **RNF02 - Portabilidad:** Desarrollado en **Python 3**, ejecutable multiplataforma (Windows, Linux, macOS) sin librerías complejas externas.
 * **RNF03 - Rendimiento:** Las operaciones de consulta y cálculo de aforo responden en menos de 1 segundo.
-* **RNF04 - Mantenibilidad:** Código estructurado mediante **Programación Orientada a Objetos (POO)** con clases independientes.
+* **RNF04 - Mantenibilidad:** Código estructurado mediante **Funciones en python** con buenas prácticas
 * **RNF05 - Robustez y Validaciones:** Control de excepciones para prevenir fallos por entradas inválidas (fechas incorrectas, números negativos o IDs duplicados).
 
 ---
